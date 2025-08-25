@@ -4,7 +4,7 @@
 </p>
 
 <p align = 'center'>
- <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/b9cd3e4a-024e-48fe-ab1a-4246c1a64b52"> Contact
+ <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/b9cd3e4a-024e-48fe-ab1a-4246c1a64b52"> Contact
 </p>
 <!-- badge -->
 <p align = 'center'>
