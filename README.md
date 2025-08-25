@@ -40,4 +40,4 @@
 <!-- GitHub Stats Card-->
 ![Most Used Language](https://github-readme-stats.vercel.app/api?username=Hyunsoo-654&theme=shadow_green_icons=true) 
 <!-- Most used Language-->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyunsoo-654&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyunsoo-654&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
