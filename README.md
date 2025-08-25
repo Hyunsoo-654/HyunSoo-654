@@ -10,7 +10,7 @@
 <!-- badge -->
 <p align="center">
   <!-- gmail -->
-  <img src="https://img.shields.io/badge/hslee3786@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/hslee3786@gmail.com-126304?style=flat-square&logo=gmail&logoColor=white"/>
 </p>
 
 <p align="center">
