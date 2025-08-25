@@ -11,12 +11,12 @@
   <!-- gmail -->
   <img src = "https://img.shields.io/badge/hslee3786@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
 </p>
-
-<p algin = 'center'>
- 안녕하세요,/  
- 😎 개발하며 고통 받는 것을 즐길 줄 아는 😎 / 
+ 안녕하세요,
+ 😎 개발하며 고통 받는 것을 즐길 줄 아는 😎 
  **신입 개발자 이현수**입니다.
-</p>
+
+
+
 
 <!-- 기술 스택 -->
 ## 💻Tech Stacks
