@@ -12,9 +12,10 @@
 <!-- 기술 스택 -->
 ## <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/2829a396-e613-4982-a7e4-be6cfa9dbd89"> Tech Stacks
 <p>
-  <img src="https://img.shields.io/badge/Verilog-6857F7?style=flat-square&logo=verilog&logoColor=white"/>
+<img src="https://img.shields.io/badge/Verilog-6857F7?style=flat-square&logo=verilog&logoColor=white"/>
 <img src="https://img.shields.io/badge/SystemVerilog-1F0A8A?style=flat-square&logo=verilog&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-82DBFA?style=flat-square&logo=C&logoColor=white"/>
 </p>
 
 <p>
