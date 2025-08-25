@@ -3,17 +3,21 @@
 <img src ="https://capsule-render.vercel.app/api?type=waving&height=300&color=21CCDB&text=Welcome%20to%20my%20Github!&section=header&reversal=false&fontSize=70&fontAlign=50&animation=fadeIn&descAlignY=61&descAlign=53&fontColor=FFFFFF&fontAlignY=45">
 </p>
 
-<p align = 'center'>
- 📬Contact
+<p align="center">
+ 📬 Contact
 </p>
+
 <!-- badge -->
-<p align = 'center'>
+<p align="center">
   <!-- gmail -->
-  <img src = "https://img.shields.io/badge/hslee3786@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/hslee3786@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
 </p>
- 안녕하세요,
- 😎 개발하며 고통 받는 것을 즐길 줄 아는 😎 
- **신입 개발자 이현수**입니다.
+
+<p align="center">
+안녕하세요, <br>
+😎 개발하며 고통 받는 것을 즐길 줄 아는 😎 <br>
+<strong>신입 개발자 이현수</strong>입니다.
+</p>
 
 
 
