@@ -16,7 +16,8 @@
 <p align="center">
 안녕하세요, <br>
 🙏 컴파일 시작시 기도할 줄 아는 🙏 <br>
-<strong>신입 반도체 엔지니어 이현수</strong>입니다.
+<strong>신입 반도체 엔지니어 이현수</strong><br>
+인사드립니다!
 </p>
 
 
