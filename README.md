@@ -39,7 +39,7 @@
 
 
 <!-- GitHub Stats Card-->
-![Most Used Language](https://github-readme-stats.vercel.app/api?username=Hyunsoo-654&theme=shadow_green_icons=true) 
+![Most Used Language](https://github-readme-stats.vercel.app/api?username=Hyunsoo-654&theme=shadow_green&icons=true&theme=merko) 
 <!-- Most used Language-->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyunsoo-654&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyunsoo-654&layout=compact&theme=merko)
 
