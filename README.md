@@ -3,8 +3,9 @@
 <img src ="https://capsule-render.vercel.app/api?type=waving&height=300&color=21CCDB&text=Welcome%20to%20my%20Github!&section=header&reversal=false&fontSize=70&fontAlign=50&animation=fadeIn&descAlignY=61&descAlign=53&fontColor=FFFFFF&fontAlignY=45">
 </p>
 
-
-## <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/b9cd3e4a-024e-48fe-ab1a-4246c1a64b52"> Contact
+<p align = 'center'>
+ <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/b9cd3e4a-024e-48fe-ab1a-4246c1a64b52"> Contact
+</p>
 <!-- badge -->
 <p align = 'center'>
   <!-- gmail -->
