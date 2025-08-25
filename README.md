@@ -39,5 +39,5 @@
 
 
 <!-- GitHub Stats Card-->
-![Most Used Language](https://github-readme-stats.vercel.app/api?username=Hyunsoo-654&theme=shadow_green_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyunsoo-654&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+![Most Used Language](https://github-readme-stats.vercel.app/api?username=Hyunsoo-654&theme=shadow_green&card_width=400_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyunsoo-654&card_width=400&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
