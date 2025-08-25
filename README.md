@@ -37,4 +37,7 @@
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
 </p>
 
-![Most Used Language](https://github-readme-stats.vercel.app/api?username=Hyunsoo-654&theme=vue_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyunsoo-654&layout=compact)
+<!-- GitHub Stats Card-->
+![Most Used Language](https://github-readme-stats.vercel.app/api?username=Hyunsoo-654&theme=shadow_green_icons=true) 
+<!-- Most used Language-->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyunsoo-654&layout=compact)
