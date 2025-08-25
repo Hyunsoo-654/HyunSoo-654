@@ -10,7 +10,7 @@
 </p>
 
 <!-- 기술 스택 -->
-## <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/2829a396-e613-4982-a7e4-be6cfa9dbd89"> Tech Stacks
+## <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/2829a396-e613-4982-a7e4-be6cfa9dbd89"> Tech Stacks
 <p>
 <img src="https://img.shields.io/badge/Java-b07219?style=flat-square&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
