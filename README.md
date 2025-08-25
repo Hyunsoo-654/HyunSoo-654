@@ -16,7 +16,7 @@
 <p align="center">
 안녕하세요, <br>
 🙏 컴파일하면서 기도할 줄 아는 🙏 <br>
-🙇‍♂️<strong>이현수</strong>입니다.🙇‍♂️
+<strong>이현수</strong>입니다.
 </p>
 
 
