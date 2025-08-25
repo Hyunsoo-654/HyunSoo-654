@@ -10,7 +10,8 @@
 </p>
 
 <!-- 기술 스택 -->
-## <img src = "https://img.icons8.com/?size=100&id=dkJjwk0X5JYU&format=png&color=000000"/> Tech Stacks
+## <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/2829a396-e613-4982-a7e4-be6cfa9dbd89" />
+ Tech Stacks
 <p>
 <img src="https://img.shields.io/badge/Java-b07219?style=flat-square&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
