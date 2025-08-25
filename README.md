@@ -19,7 +19,7 @@
 <strong>이현수</strong>입니다.
 </p>
 
-![Most Used Language](https://github-readme-stats.vercel.app/api?username=Hyunsoo-654&theme=vue_icons=true)
+
 
 
 <!-- 기술 스택 -->
@@ -37,3 +37,4 @@
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
 </p>
 
+![Most Used Language](https://github-readme-stats.vercel.app/api?username=Hyunsoo-654&theme=vue_icons=true)
