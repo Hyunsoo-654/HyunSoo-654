@@ -1,6 +1,6 @@
 <!-- header -->
 <p align = 'center'>
-<img src ="https://capsule-render.vercel.app/api?type=waving&height=300&color=21CCDB&text=Welcome%20to%20my%20Github!&section=header&reversal=false&fontSize=70&fontAlign=50&animation=fadeIn&descAlignY=61&descAlign=53&fontColor=FFFFFF&fontAlignY=45">
+<img src ="https://capsule-render.vercel.app/api?type=waving&height=300&color=39A120&text=Welcome%20to%20my%20Github!&section=header&reversal=false&fontSize=70&fontAlign=50&animation=fadeIn&descAlignY=61&descAlign=53&fontColor=FFFFFF&fontAlignY=45">
 </p>
 
 <p align="center">
@@ -15,8 +15,8 @@
 
 <p align="center">
 안녕하세요, <br>
-😎 개발하며 고통 받는 것을 즐길 줄 아는 😎 <br>
-<strong>신입 개발자 이현수</strong>입니다.
+🙇 컴파일하면서 기도할 줄 아는 🙇 <br>
+<strong>신입 반도체 설계 엔지니어 이현수</strong>입니다.
 </p>
 
 
