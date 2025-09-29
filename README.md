@@ -14,39 +14,24 @@
 </p>
 
 <p align="center">
+ <img width="200" height="300" alt="image" src="https://github.com/user-attachments/assets/2bf53351-bf9e-419d-bab2-659ee1f66d27" />
 안녕하세요, <br>
 🙏 컴파일하면서 기도할 줄 아는 🙏 <br>
 <strong>신입 반도체 엔지니어 이현수</strong><br>
 인사드립니다!
 </p>
 
-<table>
-  <tr>
-    <td>
-      <img width="200" height="300" alt="image" src="https://github.com/user-attachments/assets/2bf53351-bf9e-419d-bab2-659ee1f66d27" />
-    </td>
-    <td>
-      <table>
-        <tr>
-          <th>구분</th>
-          <th>내용</th>
-        </tr>
-        <tr>
-          <td>**성명 (국어)**</td>
-          <td>이현수</td>
-        </tr>
-        <tr>
-          <td>**성명 (한문)**</td>
-          <td>李現洙</td>
-        </tr>
-        <tr>
-          <td>**성명 (영어)**</td>
-          <td>LEE HYUN SOO</td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
+## About Me
+
+| 구분 | 내용 |
+
+|:---:|:---:|
+
+| **성명 (국어)** | 이현수 |
+
+| **성명 (한문)** | 李現洙 |
+
+| **성명 (영어)** | LEE HYUN SOO |
 
 
 
