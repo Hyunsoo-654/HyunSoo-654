@@ -22,6 +22,7 @@
 
 ## About Me
 
+<img width="354" height="472" alt="image" src="https://github.com/user-attachments/assets/2bf53351-bf9e-419d-bab2-659ee1f66d27" />
 
  
 | 구분 | 내용 |
