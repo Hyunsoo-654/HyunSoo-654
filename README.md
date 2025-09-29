@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
- <img width="200" height="300" alt="image" src="https://github.com/user-attachments/assets/2bf53351-bf9e-419d-bab2-659ee1f66d27" />
+ <img width="200" height="300" alt="image" src="https://github.com/user-attachments/assets/2bf53351-bf9e-419d-bab2-659ee1f66d27" /><br>
 안녕하세요, <br>
 🙏 컴파일하면서 기도할 줄 아는 🙏 <br>
 <strong>신입 반도체 엔지니어 이현수</strong><br>
