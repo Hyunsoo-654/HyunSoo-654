@@ -40,7 +40,7 @@
 
 
 <!-- GitHub Stats Card-->
-<center> ![Most Used Language](https://github-readme-stats.vercel.app/api?username=Hyunsoo-654&theme=merko&show_icons=true) </center>
+![Most Used Language](https://github-readme-stats.vercel.app/api?username=Hyunsoo-654&theme=merko&show_icons=true)
 <!-- Most used Language-->
-<center> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyunsoo-654&layout=compact&theme=merko) </center>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyunsoo-654&layout=compact&theme=merko)
 
