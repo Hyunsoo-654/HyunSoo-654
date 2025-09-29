@@ -20,13 +20,6 @@
 인사드립니다!
 </p>
 
-,<div align= "center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=89CFF0&height=180&text=ChanHa%20Eom's%20GitHub&fontColor=000000&fontSize=60" /> </div>
-
-
-
-# 안녕하세요 저는 엄찬하 입니다! 👋
-
-
 ## About Me
 | 구분 | 내용 |
 |------|------|
