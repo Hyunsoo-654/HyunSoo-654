@@ -44,8 +44,8 @@
 ## 💼 Experience  
 | 기관 | 활동기간 | 상세내용 |
 |------|----------|----------|
-| **대한상공회의소 서울기술교육센터** | 2025.03.25 ~ 2025.10.28 | - AI 시스템 반도체 설계 교육 (2기)<br> - 인공지능 반도체를 위한 32bit CPU 설계 프로젝트<br> - Memory Controller SoC Peripheral 설계 프로젝트<br> - One Chip Physical Design 프로젝트<br> - Radix-2<sup>2</sup> 512Point FFT<br> - VGA 영상처리 기반 PK 게임 설계 프로젝트 |
-| **(주)엠에스쎌텍** | 2024.07.30 ~ 2024.08.30 | - 2024-1 Capstone Design<br> - 근사 가산기를 활용한 디지털/아날로그 H/W 개발 프로젝트 수행<br> - 5가지 근사 가산기를 통해 JPEG 이미지를 처리하며 Power, Performance, Area 개선 솔루션 제공 및 논문 출허 |
+| **대한상공회의소<br> 서울기술교육센터** | 2025.03.25 ~ 2025.10.28 | - AI 시스템 반도체 설계 교육 (2기)<br> - 인공지능 반도체를 위한 32bit CPU 설계 프로젝트<br> - APB Bus 및 Peripheral 설계 프로젝트<br> -시스템 프로그래밍 Mini Game 프로젝트<br> - Radix-2<sup>2</sup> 512Point FFT<br> - VGA 영상처리 기반 PK 게임 설계 프로젝트 |
+| **(주)엠에스쎌텍** | 2024.07.30 ~ 2024.08.30 | - 핸드폰 및 TV 디스플레이 검사 장비 조립 및 검증<br> - 출고 제품 검증 및 패킹<br> - 자재 재고 현황 분석 |
 ---
 
 ## 🏆 Certificates  
