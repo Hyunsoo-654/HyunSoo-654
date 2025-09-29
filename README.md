@@ -20,16 +20,33 @@
 인사드립니다!
 </p>
 
-## About Me
-
-<img width="200" height="300" alt="image" src="https://github.com/user-attachments/assets/2bf53351-bf9e-419d-bab2-659ee1f66d27" />
-
- 
-| 구분 | 내용 |
-|:---:|:---:|
-| **성명 (국어)** | 이현수 |
-| **성명 (한문)** | 李現洙 |
-| **성명 (영어)** | LEE HYUN SOO |
+<table>
+  <tr>
+    <td>
+      <img width="200" height="300" alt="image" src="https://github.com/user-attachments/assets/2bf53351-bf9e-419d-bab2-659ee1f66d27" />
+    </td>
+    <td>
+      <table>
+        <tr>
+          <th>구분</th>
+          <th>내용</th>
+        </tr>
+        <tr>
+          <td>**성명 (국어)**</td>
+          <td>이현수</td>
+        </tr>
+        <tr>
+          <td>**성명 (한문)**</td>
+          <td>李現洙</td>
+        </tr>
+        <tr>
+          <td>**성명 (영어)**</td>
+          <td>LEE HYUN SOO</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
 
 
 
